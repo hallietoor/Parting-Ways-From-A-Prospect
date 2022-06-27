@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<manifest identifier="DD6F6p0rgo4vY7M_EhimgLg8DKyaIP6-2OriC-vu" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Parting Ways From A Prospect</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Parting Ways From A Prospect</title>
+        <adlcp:datafromlms>eyJjcHYiOiIyT3JpQy12dSJ9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/QFZRep8rTyzbBlAQ_small.png" />
+<file href="scormcontent/assets/XStgO-D3LnMEd3it_Sy-8001DO3nkhs85.jpg" />
+<file href="scormcontent/assets/B4ogqR7glIvj2QG2_transcoded-dWnibFsCj4bOmPx--The%20Importance%20Of%20Walking%20Away-1080p-220509-00001.png" />
+<file href="scormcontent/assets/8tM7qJ9ZPYqZkYT4_transcoded-dWnibFsCj4bOmPx--The%20Importance%20Of%20Walking%20Away-1080p-220509.mp4" />
+<file href="scormcontent/assets/qBR8GfWt6xy3CbfX_4yIqwCOyQOtLB0uK.jpg" />
+<file href="scormcontent/assets/XhstQzRchRHSqHl9_QxoyAlxUrYgPCqFc.jpg" />
+<file href="scormcontent/assets/46bM8scTCEjIx2_b_mountains.jpg" />
+<file href="scormcontent/assets/UXQVrkQqQ10nDkds_-bjIP1Q6AcWEjdbW.jpg" />
+<file href="scormcontent/assets/2KpRTwtkuCgK42-N_Uk5mejzjbyrw5RIP.jpg" />
+<file href="scormcontent/assets/bW3uN4w31bIH8GcW_qZBG8uOZTQI_ig5b.jpg" />
+<file href="scormcontent/assets/p7Eukg6WrqkfnAX5_QJmoqa88bLP-TMUJ.jpg" />
+<file href="scormcontent/assets/mMk0FUqGTpm7gpYZ_6zOFsCFXe5ytPZGS.jpg" />
+<file href="scormcontent/assets/AQhWOfMmIqo8a8TM_CacKhz4SOsUJGA9S.jpg" />
+<file href="scormcontent/assets/3NluHwP8J7v68wN6_jdpPasrBozN8aTw8.jpg" />
+<file href="scormcontent/assets/3yB6xCiirK4jNcUM_R8r2PlHGUNCt_DSR.jpg" />
+<file href="scormcontent/assets/XqBTxsW08SxZXv33_YD0gkHDGsL37UOIG.jpg" />
+<file href="scormcontent/assets/y0_3Q4w-nfazAcaZ_182_full.png" />
+<file href="scormcontent/assets/XCGQGK_xjpzrGqa6_106_full.png" />
+<file href="scormcontent/assets/1bqyNlW6wIC72ZzB_136_full.png" />
+<file href="scormcontent/assets/cX6Y93cdQIKRw_xG_158_full.png" />
+<file href="scormcontent/assets/sxtNZVZ_M9trXSSt_166_full.png" />
+<file href="scormcontent/assets/Ey0tLgpyA6qy2Hpk_141_full.png" />
+<file href="scormcontent/assets/5Qxfa01teueDc48L_167_full.png" />
+<file href="scormcontent/assets/CwBTTNiV7qgUkOsL_148_full.png" />
+<file href="scormcontent/assets/uynXloO4sDyjKjMB_156_full.png" />
+<file href="scormcontent/assets/F_HBC1cNcnRWvy00_186_full.png" />
+<file href="scormcontent/assets/mkTHflGiv-V3AlJ-_146_full.png" />
+<file href="scormcontent/assets/v_hUYUd0vWyeSHZy_181_full.png" />
+
+    </resource>
+  </resources>
+</manifest>
